@@ -1,0 +1,26 @@
+#body > .title {
+    font-size: 7vw;
+    width: 50%;
+    padding: 20px;
+    border-radius: 16px;
+    text-align: center;
+
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%)
+}
+
+
+
+
+
+
+
+
+
+/* global classes */
+
+/* you dont want to mess with the enderman no no no no no no no */
+.hover:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
